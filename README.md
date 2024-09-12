@@ -12,3 +12,4 @@ git clone https://github.com/songyouwei/ABSA-PyTorch.git
 git clone https://github.com/yangheng95/ABSADatasets
 git clone https://github.com/fhamborg/NewsMTSC.git
 ```
+Setup HUGGING_FACE_KEY in .env.example and change name to .env
