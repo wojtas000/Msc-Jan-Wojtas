@@ -1,8 +1,11 @@
 # Master's thesis - Jan Wojtas
-Actor-Based Sentiment Analysis In Press News Articles
+
+## Topic: Actor-Based Sentiment Analysis In Press News Articles
 
 Thesis supervisor: PhD in Computer Science, Anna Wróblewska
+
 Cooperator: Prof Dennis Helic, Modul University, Austria
+
 Cooperation with Austrian Press Agency
 
 ## Project setup
